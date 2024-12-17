@@ -1,6 +1,6 @@
 
 opencv-python
-moviepy
+moviepy==1.0.3
 scipy
 blinker==1.8.2
 click==8.1.7
