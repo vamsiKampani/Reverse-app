@@ -25,7 +25,7 @@ Python 3.x installed on your machine.
 Required Python packages (listed in requirements.txt).
 Ensure you have the necessary libraries for video processing.
 Clone the Repository
-	bash git clone https://github.com/Sathwik9418/reverse-video-app.git cd reverse-video-app
+	bash git clone https://github.com/vamsiKampani/Reverse-app.git cd reverse-video-app
 
 Set Up the Backend
 	Create a virtual environment (optional but recommended):
